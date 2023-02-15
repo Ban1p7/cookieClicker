@@ -12,5 +12,3 @@ javac addClicker.java
 java main
 
 This should open up a window with it in. Have fun wasting your time playing this bad game.
-
-Also, yes. It was me. This text is your proof, that I, Noah, made this.
