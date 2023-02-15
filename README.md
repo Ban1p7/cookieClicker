@@ -5,10 +5,10 @@ You click on the left button for points, and the below counter will update. Upon
 
 This was made using the built-in swing framework in the JDK. If you have that, you can compile the code and run it if you want. Just install the JDK, clone this repository, go into the folder and run in a terminal:
 
-javac main.java
-javac cookie.java
-javac autoClicker.java
-javac addClicker.java
-java main
+javac main.java<br>
+javac cookie.java<br>
+javac autoClicker.java<br>
+javac addClicker.java<br>
+java main<br>
 
 This should open up a window with it in. Have fun wasting your time playing this bad game.
